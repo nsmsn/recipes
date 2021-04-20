@@ -1,7 +1,7 @@
-#Shrimp Bahn Mi Wrap
+# Shrimp Bahn Mi Wrap
 Street-food style lunch, inspired by a similar dish at the Heard Museum Cafe, Phoenix AZ. First attempted in 2013.
 
-###Ingredients
+## Ingredients
 
 1 large carrot, peeled and shredded
 
@@ -29,7 +29,7 @@ Street-food style lunch, inspired by a similar dish at the Heard Museum Cafe, Ph
 
 1 pound peeled cooked shrimp(tails removed), fried in Panko breadcrumbs
 
-###Directions
+## Directions
 1. Marinate carrot in vinegar, set aside while prepping the rest of the ingredients.
 
 2. Combine cilantro, mayonnaise, yogurt, lime juice and cayenne in a medium bowl. Spread a spoonful of this sauce on each tortilla. 
